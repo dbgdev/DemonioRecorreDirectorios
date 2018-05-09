@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "RecorreArbolDirectoriosProcesaBBDD", "RecorreArbolDirectoriosProcesaBBDD\RecorreArbolDirectoriosProcesaBBDD.vbproj", "{D39AB739-FAE5-4EB4-B8A2-13AC9FC3873B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupRecorreArbolprocesaBD", "SetupRecorreArbolprocesaBD\SetupRecorreArbolprocesaBD.vdproj", "{572496EC-E51C-4577-8BD7-2F648EC2B29E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D39AB739-FAE5-4EB4-B8A2-13AC9FC3873B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D39AB739-FAE5-4EB4-B8A2-13AC9FC3873B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D39AB739-FAE5-4EB4-B8A2-13AC9FC3873B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D39AB739-FAE5-4EB4-B8A2-13AC9FC3873B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{572496EC-E51C-4577-8BD7-2F648EC2B29E}.Debug|Any CPU.ActiveCfg = Debug
+		{572496EC-E51C-4577-8BD7-2F648EC2B29E}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {280A681A-E3B7-4386-9953-1D4FFFFF2A23}
+	EndGlobalSection
+EndGlobal
